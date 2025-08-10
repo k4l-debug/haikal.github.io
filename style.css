@@ -59,6 +59,7 @@ section {
     padding: 1rem;
     border-radius: 10px;
     transition: transform 0.2s;
+    margin-bottom: 1.5rem; /* tambahkan ini */
 }
 
 .card:hover {
