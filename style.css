@@ -77,3 +77,6 @@ footer {
     --text: #000;
     --card-bg: #f0f0f0;
 }
+main {
+    padding-bottom: 80px; /* kasih jarak bawah */
+}
